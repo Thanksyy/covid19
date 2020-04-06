@@ -46,7 +46,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 
 #### Visualizations
 
-
+- [COVID-19 Real-time Dashboard](https://ncov.deepeye.tech/en): Tsinghua University COVID-19 Dashboard for visually tracking the outbreak of COVID-19 and supporting similarity trend search.
 - [COVID-19 Flight Info](https://www.covid19globalinfo.com/) ([repo](https://github.com/maschad/covid19-banned-flights)): Flight and Travel info as well as other stats related to the outbreak.
 - [The Curve](https://thecurve.infinitesimals.space/) ([repo](https://github.com/eminx/thecurve)): The Curve
 - [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
